@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  width: 40%
+}
+
+.header{
+text-align:center;
 }
 
 .App-logo {
